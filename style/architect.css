@@ -32,7 +32,7 @@
     
 }
 .nav-links{
-    
+
 }
 /* background-color */
 .bg-color{
@@ -79,6 +79,7 @@
     margin-top: 32px;
     margin-bottom: 50px;
 }
-.img{
+.banner-img{
     margin-bottom: 45px;
+    width: 100%;
 }
