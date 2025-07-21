@@ -241,8 +241,16 @@ main{
     filter: grayscale(100%);
 }
 
-
-
+.footer{
+    margin: 100px 200px 100px 200px;
+    height: 100px;
+    background-color: rgba(255, 244, 231, 1);
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
 /* responsive-design */
 @media screen and (max-width: 576px) {
     .navbar, 
