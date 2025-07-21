@@ -127,10 +127,11 @@ main{
     font-size: 45px;
     font-weight: bold;
     margin-top: 130px;
+    margin-bottom: 15px;
 
 }
 .section-container{
-    margin-top: 10px;
+    margin-top: 15px;
 }
 
 .facts-container{
