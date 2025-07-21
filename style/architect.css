@@ -167,6 +167,9 @@ main{
     margin-left: -92px;
     margin-top: -140px;
 }
+.feature-architect img{
+    width: 100%;
+}
 
 /* section-2 */
 .section-title{
@@ -244,6 +247,7 @@ main{
 @media screen and (max-width: 576px) {
     .navbar, 
     .nav-links,
+    .uniqe,
     .teams{
     flex-direction: column;
     }
@@ -269,6 +273,11 @@ main{
     .rifat{
         max-width: 350px;
         margin-left: 20px;
+    }
+    #experience-badge{
+        margin-top: 10px;
+        margin-left: 10px;
+        padding: 10px;
     }
 
 
