@@ -122,6 +122,51 @@ main{
 .feature-discription{
     font-size: 16px;
 }
+/* section-2.0 */
+.uniqe{
+    display: flex;
+    gap: 130px;
+    margin-top: 90px;
+}
+.uniqe-title{
+    font-weight: bold;
+    font-size: 45px;
+    border-left: 5px solid rgba(255, 144, 14, 1);
+    padding-left: 20px;
+    margin-bottom: 24px;
+}
+.uniqe-discription{
+    max-width: 580px;
+    margin-top: 24px;
+    margin-bottom: 30px;
+}
+.blog-title{
+    font-weight: 600px;
+    font-size: 20px;
+}
+.uniqe-blog{
+    padding:30px ;
+    box-shadow: 0 4px 30px 0 rgba(0, 0, 0, 0.06);
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.uniqe-blog .blog-title{
+    font-weight: 600px;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#experience-year{
+    font-weight: bold;
+    font-size: 85px;
+}
+#experience-badge{
+    padding: 45px;
+    font-size: 25px;
+    margin-left: -92px;
+    margin-top: -140px;
+}
 
 /* section-2 */
 .section-title{
@@ -192,6 +237,8 @@ main{
 .sponsor-container img{
     filter: grayscale(100%);
 }
+
+
 
 /* responsive-design */
 @media screen and (max-width: 576px) {
